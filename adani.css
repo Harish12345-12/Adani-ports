@@ -1,0 +1,135 @@
+.body{
+    background-color: #f3f2ef;
+    
+    flex-direction: column;
+    align-items: center;
+}
+.head{
+    width: 100%;
+    height: 15%;
+    background-color:white;
+    display: flex;
+    
+    border: lightgray solid 1px;
+}
+.headleft{
+    padding: 8px 15px;
+    
+
+}
+
+.headce{
+    display: block;
+
+}
+
+.headcenter{
+    width: 100%;
+    padding-top: 20px;
+    
+}
+.headcenter1{
+    width: 100%;
+    
+    flex-wrap: wrap;
+    margin-top: 30px;
+    
+    
+}
+.bt11
+{
+    margin-left: 10px;
+    font-size: medium;
+}
+.body1{
+    padding-top: 20px;
+}
+.body1 img{
+    width: 100%;
+    height: 90%;
+}
+.co{
+    text-align: center
+    
+    padding-top: 20px;
+    padding-left:10%;
+    
+}
+.covid{
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.content{
+    
+    width: 40%;
+    font-size: 16px;
+    margin: 0;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.video1{
+    padding-left: 50px;
+    display: flex;
+    box-sizing:border-box;
+    width: 40%;
+    height: 60%;
+}
+.con{
+    display: flex;
+}
+.footprints{
+    width: 100%;
+    background-color: lightgrey;
+    margin-top: 20px;
+    padding-top: 60px;
+    padding-left: 10%;
+    margin-right: 10%;
+
+}
+.footprints b {
+    padding-top: 20px;
+
+font-size: 40px;
+
+}
+.images1{
+    width: 80%;
+    height: 30%;
+    padding-top: 10px;
+    padding-left: px;
+}
+.images2{
+    width: 10%;
+    height: 10%;
+    padding: 5%;
+    
+}
+.img1{
+    display: flex;
+    padding-left: 30px;
+}
+.style img{
+    width: 100%;
+    height: 80%;
+    padding-right: 45px;
+}
+.style{
+    width: 100%;
+    
+}
+.play{
+    padding-left: 10%;
+    font-size: 30px;
+}
+.play1{
+    display: flex;
+    background-color: lightgrey;
+    padding-top: 60px;
+}
+.pl{
+    font-size: 20px;
+    background-color: white;
+    height: 400px;
+    width: 30%;
+}
